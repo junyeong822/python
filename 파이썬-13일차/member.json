@@ -1,0 +1,12 @@
+[
+    {
+        "name" : "james", 
+        "age" : 21, 
+        "spec" : [175.5, 70.5]
+    },
+    {"name" : "John", "age" : 24, "spec" : [175.5, 70.5]},
+    {"name" : "Peter", "age" : 23, "spec" : [175.5, 70.5]},
+    {"name" : "Ander", "age" : 28, "spec" : [175.5, 70.5]},
+    {"name" : "Pillip", "age" : 27, "spec" : [175.5, 70.5]}
+]
+
